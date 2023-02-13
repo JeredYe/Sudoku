@@ -1,0 +1,8 @@
+G:\Programs\数独\obj\x86\Release\数独.csproj.AssemblyReference.cache
+G:\Programs\数独\obj\x86\Release\数独.csproj.SuggestedBindingRedirects.cache
+G:\Programs\数独\obj\x86\Release\数独.csproj.CoreCompileInputs.cache
+G:\Programs\数独\bin\Release\数独.exe.config
+G:\Programs\数独\bin\Release\数独.exe
+G:\Programs\数独\bin\Release\数独.pdb
+G:\Programs\数独\obj\x86\Release\数独.exe
+G:\Programs\数独\obj\x86\Release\数独.pdb
